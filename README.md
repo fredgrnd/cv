@@ -8,9 +8,7 @@
 * Gitab
 * Docker
 
-## Missions
-
-### SNCF - TRANSILIEN : Ops & Architecte Azure (01/2019 - 03/2021)
+## SNCF - TRANSILIEN : Ops & Architecte Azure (01/2019 - 03/2021)
 
 **Au quotidien**
 
@@ -28,16 +26,17 @@
 
 *Technologies : Azure Cloud, Gitlab, Gitlab-CI, Terraform, Docker*
 
-### LVMH - PCIS : Architecte Azure (Juillet 2018 - Décembre 2018)
+## LVMH - PCIS : Architecte Azure (Juillet 2018 - Décembre 2018)
 
 * Migration d'application dans le cloud
 * Assurer le contact entre les dev, l'hebergeur et le client
 * Design d'infrastructures cloud Azure
 * Accompagner l'équipe de developpement dans le choix des services PaaS et Iaas Azure
 
-### LINKBYNET MAURICE : Ingénieur Systèmes/Tech Lead (07/2017 - 06/2018)
+## LINKBYNET MAURICE : Ingénieur Systèmes/Tech Lead (07/2017 - 06/2018)
 
 **Référent client NISSAN et PCIS**
+
 * Conseil et cadrage des demandes clients
 * Formation des administrateurs sur les plateforme client
 * Assurer la santé et l’évolution des plateforme
@@ -49,13 +48,15 @@
 * Rédaction de RFC
 * Veille sur les nouvelles versions
 
-Formations
+**Formations**
+
 * Formation des nouveaux collaborateurs
 * Formation sur les techniques DevOPS (Docker, Terraform Ansible)
 
-### LINKBYNET NANTES : Ingénieur Systèmes/Tech Lead (02/2012 - 07/2017)
+## LINKBYNET NANTES : Ingénieur Systèmes/Tech Lead (02/2012 - 07/2017)
 
 **Référent client NISSAN et PCIS**
+
 * Conseil et cadrage des demandes clients
 * Formation des administrateurs sur les plateforme client
 * Assurer la santé et l’évolution des plateforme
@@ -67,17 +68,17 @@ Formations
 * Rédaction de RFC
 * Veille sur les nouvelles versions
 
-### GFI : Expert Technique (04/2010 - 06/2012)
+## GFI : Expert Technique (04/2010 - 06/2012)
 
 * Réalisation d’audit sur les technologies de cluster Red Hat.
 * Réalisation d’une solution de PCA avec prise en compte de facilité de déploiement. Evolutions de versions sur des plateformes Red Hat Enterprise Linux.
-Intégration et support d’application.
+* Intégration et support d’application.
 * Réalisation de scripts de déploiement.
 * Réalisation de documentation.
-Intégration Supervision :
+* Intégration Supervision :
 * Etude de l’environnement et mise en place d’une architecture de supervision Mise en place d’une supervision Nagios/Centreon d’un millier de services. Formation des administrateurs à l’interface de Centron.
 
-### LYNT : Ingénieur systèmes Linux (05/2008 - 03/2010)
+## LYNT : Ingénieur systèmes Linux (05/2008 - 03/2010)
 
 * Intégration de progiciels
 * Test et réalisations de documentations d’installation.
@@ -86,7 +87,7 @@ Intégration Supervision :
 * Industrialisation des serveurs Linux (RHEL4 et RHEL5).
 * Mise en place de serveurs de déploiement PXE. Normalisation et qualification d’applications et de systèmes. Support Niveau 3 et assistance sur les projets majeurs MAIF.
 
-### Ouest France Multimedia : Ingénieur Systèmes Linux (06/2006 - 05/2008)
+## Ouest France Multimedia : Ingénieur Systèmes Linux (06/2006 - 05/2008)
 
 * Expertise Linux
 * Mise en oeuvre d’un cluster web pour les sites Maville.com/OuestFrance.fr
@@ -97,7 +98,7 @@ Intégration Supervision :
 * Supervision et suivit journalier des systèmes.
 * Recherche et Développement.
 
-### GIE TELINTRANS (CHRONOPOST) : Administrateur Systèmes (01/2001 - 05/2006)
+## GIE TELINTRANS (CHRONOPOST) : Administrateur Systèmes (01/2001 - 05/2006)
 
 **Production/Administration**
 
