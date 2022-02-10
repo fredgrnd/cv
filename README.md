@@ -9,7 +9,7 @@
 
 ## Missions
 
-### SNCF - TRANSILIEN (Janvier 2019 - Mars 2021) Ops & Architecte Azure**
+### SNCF - TRANSILIEN (Janvier 2019 - Mars 2021) Ops & Architecte Azure
 
 **Au quotidien**
 
@@ -17,6 +17,13 @@
 * Déploiement, administration et maintien de l'instance Gitlab CE.
 * Design des nouvelles infrastructures Azure.
 * Gestion de l'automatisation de toutes les chaines (Build Application, deploiement des ressources Azure).
+
+**Missions**
+
+* Mise en place de POC pour des équipes TRANSILIEN.
+* Migration de clusters AKS vers du PAAS App Service.
+* Réduction du cout des infrastructures.
+* Etude sur la transposition de l'infra Azure vers AWS.
 
 *Technologies : Azure Cloud, Gitlab, Gitlab-CI, Terraform*
 
