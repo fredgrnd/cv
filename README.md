@@ -1,11 +1,7 @@
 # Freddy GRANDIERE
 
-----
-
 > **OPS & Architecte Azure Freelance**\
 > **Technologies:** Cloud Azure, Gitlab, Terraform, Docker, Linux 
-
-----
 
 ## SNCF - TRANSILIEN : Ops & Architecte Azure
 
@@ -37,7 +33,9 @@
 * Accompagner l'équipe de developpement dans le choix des services PaaS et Iaas Azure
 
 ## LINKBYNET MAURICE : Ingénieur Systèmes/Tech Lead
+
 *Juillet 2017 à Juin 2018*
+
 **Référent client NISSAN et PCIS**
 
 * Conseil et cadrage des demandes clients
