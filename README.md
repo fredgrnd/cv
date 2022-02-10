@@ -1,12 +1,11 @@
 # Freddy GRANDIERE
-### OPS & Architecte Azure
 
-## Technologies maitrisées
+----
 
-* Cloud Azure
-* Terraform 
-* Gitab
-* Docker
+> **OPS & Architecte Azure Freelance**\
+> **Technologies:** Cloud Azure, Gitlab, Terraform, Docker, Linux 
+
+----
 
 ## SNCF - TRANSILIEN : Ops & Architecte Azure (01/2019 - 03/2021)
 
@@ -108,3 +107,9 @@
 
 * Réalisation de maquettes et plans de déploiement pour la mise en place de serveurs de fichiers et d’annuaire Open Enterprise Serveur.
 * Recherche et développement.
+
+----
+
+> <freddy@fredgrnd.com> • +336 71 42 46 50 • 45 ans\
+> FredGRND Consulting\
+>  144, rue Paul Bellamy - 44300 Nantes, FRANCE
