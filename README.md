@@ -1,4 +1,5 @@
-# Freddy GRANDIERE OPS & Architecte Azure
+# Freddy GRANDIERE
+### OPS & Architecte Azure
 
 ## Technologies maitrisées
 
@@ -36,13 +37,13 @@
 
 ### LINKBYNET MAURICE : Ingénieur Systèmes/Tech Lead (07/2017 - 06/2018)
 
-Référent client NISSAN et PCIS
+**Référent client NISSAN et PCIS**
 * Conseil et cadrage des demandes clients
 * Formation des administrateurs sur les plateforme client
 * Assurer la santé et l’évolution des plateforme
 * Sécurité
 
-Référent technique applicatif (Varnish, MySQL, AppDynamics)
+**Référent technique applicatif (Varnish, MySQL, AppDynamics)**
 
 * Support N2 sur les applications
 * Rédaction de RFC
@@ -54,13 +55,13 @@ Formations
 
 ### LINKBYNET NANTES Ingénieur Systèmes/Tech Lead (02/2012 - 07/2017)
 
-Référent client NISSAN et PCIS
+**Référent client NISSAN et PCIS**
 * Conseil et cadrage des demandes clients
 * Formation des administrateurs sur les plateforme client
 * Assurer la santé et l’évolution des plateforme
 * Sécurité
 
-Référent technique applicatif (Varnish, MySQL, AppDynamics)
+**Référent technique applicatif (Varnish, MySQL, AppDynamics)**
 
 * Support N2 sur les applications
 * Rédaction de RFC
