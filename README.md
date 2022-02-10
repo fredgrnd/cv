@@ -10,7 +10,15 @@
 ## Missions
 
 ### SNCF - TRANSILIEN (Janvier 2019 - Mars 2021)
+
 **Ops & Architecte Azure**
+
+**Au quotidien**
+
+* Gérer l'ensemble des ressources Azure de l'équipe.
+* Déploiement, administration et maintien de l'instance Gitlab CE.
+* Design des environnements Azure.
+* Gestion de l'automatisation de toutes les chaines (Build Application, deploiement des ressources Azure).
 
 ### LVMH - PCIS (Juillet 2018 - Décembre 2018)
 **Architecte Azure**
