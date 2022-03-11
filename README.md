@@ -1,11 +1,15 @@
-# Freddy GRANDIERE
+<div id="title">
+
+# Freddy Grandiere
 
 > **OPS & Architecte Azure Freelance**\
 > **Technologies:** Cloud Azure, Gitlab, Terraform, Docker, Linux
 
-## SNCF - TRANSILIEN : Ops & Architecte Azure
+</div>
 
-> Depuis Janvier 2019
+## Ops & Architecte Azure
+
+> **Confidentiel** / Depuis Janvier 2019
 
 ### Au quotidien
 
@@ -54,7 +58,7 @@
 
 ## LINKBYNET NANTES : Ingénieur Systèmes/Tech Lead
 
-> Février à Juillet 2017
+> Février 2012 à Juillet 2017
 
 ### Référent client NISSAN et PCIS
 
