@@ -1,11 +1,7 @@
-<div id="title">
-
 # Freddy Grandiere
 
 > **OPS & Architecte Azure Freelance**\
 > **Technologies:** Cloud Azure, Gitlab, Terraform, Docker, Linux
-
-</div>
 
 ## Ops & Architecte Azure
 
