@@ -3,9 +3,30 @@
 > **OPS & Architecte Azure Freelance**\
 > **Technologies:** Cloud Azure, Gitlab, Terraform, Docker, Linux
 
+## Architecte Azure & PowerPlatform
+
+> **CFAO** / depuis Avril 2023
+
+### Au quotidien
+
+* Définir les standards PowerPlatform et Azure
+* Accompagner les équipes sur la mise en place des environnements powerPlatform
+* Déployer et maintenir les composants cloud Azure
+
+### Missions
+
+* PowerPlateform
+  * Mise en place du Center Of excellence 
+  * Définition des quotas Datavarse
+  * Mise en place de stratégies de données
+
+* Azure
+  * Architecture et déploiement d'une solution de sécurisation d'accès aux données cloud
+  * Mise en place d'Azure Machine Learning
+
 ## Ops & Architecte Azure
 
-> **FREELANCE CONFIDENTIEL** / Depuis Janvier 2019
+> **SNCF-Direction Transilien** / Janvier 2019 à mars 2022
 
 ### Au quotidien
 
@@ -23,7 +44,7 @@
 
 ## Architecte Azure
 
-> **FREELANCE CONFIDENTIEL** / Juillet 2018 à Décembre 2018
+> LVMH-PCIS / Juillet 2018 à Décembre 2018
 
 * Migration d'application dans le cloud
 * Assurer le contact entre les dev, l'hébergeur et le client
