@@ -1,11 +1,31 @@
 # Freddy Grandiere
 
-> **OPS & Architecte Azure Freelance**\
+> **OPS & Architecte Azure Freelance**
+
 > **Technologies:** Cloud Azure, Gitlab, Terraform, Docker, Linux
+
+## Leadtech DevOPS
+
+**IRIS** / Depuis mai 2023
+
+### Au quotidien
+* Animer une équipe de 6 DevOPS
+* Architecture d'une solution de mise à disposition de VM dans le Cloud GCP
+* Accompagner les équipes produits dans leur migration vers le cloud
+* Point de contact technique inter équipe
+
+### Mission
+
+* Challenger les choix d'équipe
+* Porter l'orientation SI
+* Faire respecter les bonnes pratiques GCP
+* Evolution des déploiements Terraform
+* Développement de Cloud Function (Python)
+<div style="page-break-after: always;"></div>
 
 ## Architecte Azure & PowerPlatform
 
-> **CFAO** / depuis Avril 2023
+**CFAO** / Avril 2022 à mai 2023
 
 ### Au quotidien
 
@@ -15,18 +35,20 @@
 
 ### Missions
 
-* PowerPlateform
+#### PowerPlatform
   * Mise en place du Center Of excellence 
-  * Définition des quotas Datavarse
+  * Définition des quotas Dataverse
   * Mise en place de stratégies de données
 
-* Azure
+#### Azure
   * Architecture et déploiement d'une solution de sécurisation d'accès aux données cloud
   * Mise en place d'Azure Machine Learning
 
+<div style="page-break-after: always;"></div>
+
 ## Ops & Architecte Azure
 
-> **SNCF-Direction Transilien** / Janvier 2019 à mars 2022
+**SNCF-Direction Transilien** / Janvier 2019 à mars 2022
 
 ### Au quotidien
 
@@ -42,9 +64,11 @@
 * Réduction du cout des infrastructures.
 * Etude sur la transposition de l'infra Azure vers AWS.
 
+<div style="page-break-after: always;"></div>
+
 ## Architecte Azure
 
-> LVMH-PCIS / Juillet 2018 à Décembre 2018
+**LVMH-PCIS** / Juillet 2018 à Décembre 2018
 
 * Migration d'application dans le cloud
 * Assurer le contact entre les dev, l'hébergeur et le client
@@ -53,7 +77,7 @@
 
 ## Ingénieur Systèmes/Tech Lead
 
-> **LINKBYNET INDIAN OCEAN** / Juillet 2017 à Juin 2018
+**LINKBYNET INDIAN OCEAN** / Juillet 2017 à Juin 2018
 
 ### Référent client NISSAN et PCIS
 
@@ -73,9 +97,11 @@
 * Formation des nouveaux collaborateurs
 * Formation sur les techniques DevOPS (Docker, Terraform Ansible)
 
+<div style="page-break-after: always;"></div>
+
 ## Ingénieur Systèmes/Tech Lead
 
-> **LINKBYNET** / Février 2012 à Juillet 2017
+**LINKBYNET Nantes** / Février 2012 à Juillet 2017
 
 ### Référent client NISSAN et PCIS
 
@@ -89,10 +115,9 @@
 * Support N2 sur les applications
 * Rédaction de RFC
 * Veille sur les nouvelles versions
-
 ## Expert Technique
 
-> **GFI** / Avril 2010 à Janvier 2012
+**GFI** / Avril 2010 à Janvier 2012
 
 * Réalisation d’audit sur les technologies de cluster Red Hat.
 * Réalisation d’une solution de PCA avec prise en compte de facilité de déploiement. Evolutions de versions sur des plateformes Red Hat Enterprise Linux.
@@ -102,9 +127,11 @@
 * Intégration Supervision :
 * Etude de l’environnement et mise en place d’une architecture de supervision Mise en place d’une supervision Nagios/Centreon d’un millier de services. Formation des administrateurs à l’interface de Centreon.
 
+<div style="page-break-after: always;"></div>
+
 ## Ingénieur systèmes Linux
 
-> **LYNT** Mai 2008 à Mars 2010
+**LYNT** Mai 2008 à Mars 2010
 
 * Intégration de progiciels
 * Test et réalisations de documentations d’installation.
@@ -112,10 +139,9 @@
 * Création du socle linux et documentation.
 * Industrialisation des serveurs Linux (RHEL4 et RHEL5).
 * Mise en place de serveurs de déploiement PXE. Normalisation et qualification d’applications et de systèmes. Support Niveau 3 et assistance sur les projets majeurs MAIF.
-
 ## Ingénieur Systèmes Linux
 
-> **Ouest France Multimedia** / Juin 2006 à Mai 2008
+**Ouest France Multimedia** / Juin 2006 à Mai 2008
 
 * Expertise Linux
 * Mise en oeuvre d’un cluster web pour les sites Maville.com/OuestFrance.fr
@@ -125,10 +151,10 @@
 * Etude et mise en production d’une plateforme « Single Sign On », basée sur une plateforme Linux (Apache Tomcat, Annuaire LDAP).
 * Supervision et suivit journalier des systèmes.
 * Recherche et Développement.
-
+<div style="page-break-after: always;"></div>
 ## Administrateur Systèmes
 
-> **GIE TELINTRANS** / Janvier 2001 à Mai 2006
+**GIE TELINTRANS** / Janvier 2001 à Mai 2006
 
 ### Production/Administration
 
