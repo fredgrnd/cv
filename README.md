@@ -81,8 +81,8 @@
 ### Référent client NISSAN et PCIS
 
 * Conseil et cadrage des demandes clients
-* Formation des administrateurs sur les plateforme client
-* Assurer la santé et l’évolution des plateforme
+* Formation des administrateurs sur les plateformes client
+* Assurer la santé et l’évolution des plateformes
 * Sécurité
 
 ### Référent technique applicatif (Varnish, MySQL, AppDynamics)
@@ -105,8 +105,8 @@
 ### Référent client NISSAN et PCIS
 
 * Conseil et cadrage des demandes clients
-* Formation des administrateurs sur les plateforme client
-* Assurer la santé et l’évolution des plateforme
+* Formation des administrateurs sur les plateformes client
+* Assurer la santé et l’évolution des plateformes
 * Sécurité
 
 ### Référent technique applicatif (Varnish, MySQL, AppDynamics)
