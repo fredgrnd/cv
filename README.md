@@ -139,6 +139,7 @@
 * Création du socle linux et documentation.
 * Industrialisation des serveurs Linux (RHEL4 et RHEL5).
 * Mise en place de serveurs de déploiement PXE. Normalisation et qualification d’applications et de systèmes. Support Niveau 3 et assistance sur les projets majeurs MAIF.
+
 ## Ingénieur Systèmes Linux
 
 **Ouest France Multimedia** / Juin 2006 à Mai 2008
@@ -152,6 +153,7 @@
 * Supervision et suivit journalier des systèmes.
 * Recherche et Développement.
 <div style="page-break-after: always;"></div>
+
 ## Administrateur Systèmes
 
 **GIE TELINTRANS** / Janvier 2001 à Mai 2006
