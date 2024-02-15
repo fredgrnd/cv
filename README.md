@@ -1,10 +1,9 @@
 # Freddy Grandiere
 
-> **OPS & Architecte Azure Freelance**
-
+> **OPS & Architecte Azure Freelance** \
 > **Technologies:** Cloud Azure, Gitlab, Terraform, Docker, Linux
 
-## Leadtech DevOPS
+## Leadtech DevOPS (freelance)
 
 **IRIS** / Depuis mai 2023
 
@@ -23,7 +22,7 @@
 * Développement de Cloud Function (Python)
 <div style="page-break-after: always;"></div>
 
-## Architecte Azure & PowerPlatform
+## Architecte Azure & PowerPlatform (freelance)
 
 **CFAO** / Avril 2022 à mai 2023
 
@@ -46,7 +45,7 @@
 
 <div style="page-break-after: always;"></div>
 
-## Ops & Architecte Azure
+## Ops & Architecte Azure (freelance)
 
 **SNCF-Direction Transilien** / Janvier 2019 à mars 2022
 
@@ -66,7 +65,7 @@
 
 <div style="page-break-after: always;"></div>
 
-## Architecte Azure
+## Architecte Azure (freelance)
 
 **LVMH-PCIS** / Juillet 2018 à Décembre 2018
 
@@ -169,7 +168,7 @@
 
 ----
 
-> <freddy@fredgrnd.com> • +33(6) 71 42 46 50 • 47 ans\
-> Freddy GRANDIERE
-> FredGRND Consulting\
+> Freddy GRANDIERE \
+> FredGRND Consulting \
+> <freddy@fredgrnd.com>, +33(6) 71 42 46 50 \
 > 144, rue Paul Bellamy - 44300 Nantes, FRANCE
