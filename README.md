@@ -169,6 +169,7 @@
 
 ----
 
-> <freddy@fredgrnd.com> • +33(6) 71 42 46 50 • 45 ans\
+> <freddy@fredgrnd.com> • +33(6) 71 42 46 50 • 47 ans\
+> Freddy GRANDIERE
 > FredGRND Consulting\
 > 144, rue Paul Bellamy - 44300 Nantes, FRANCE
